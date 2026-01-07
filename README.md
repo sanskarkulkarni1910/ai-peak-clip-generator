@@ -63,8 +63,8 @@ ai-peak-clip-generator/
 pip install -r requirements.txt
 
 **Start Backend Server**
-
-Start Backend Server
+cd C:\Users\Armish\Desktop\ai-peak-clip-generator
+uvicorn backend.main:app --reload
 
 
 ## 🖥️ Frontend Setup & Run Process
